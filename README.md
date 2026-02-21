@@ -3,7 +3,7 @@
 
 ### Creating the Envirnment
 
-conda create -p env_basic python==3.12
+conda create -p venv_basic python==3.12
 
 ### libraries Installed
 
